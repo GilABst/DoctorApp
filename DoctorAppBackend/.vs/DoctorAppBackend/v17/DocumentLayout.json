@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\extensiones\\servicioaplicacionextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\extensiones\\servicioaplicacionextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\extensiones\\servicioidentidadextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\extensiones\\servicioidentidadextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioIdentidadExtencion.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Extensiones\\ServicioIdentidadExtencion.cs",
+              "RelativeDocumentMoniker": "API\\Extensiones\\ServicioIdentidadExtencion.cs",
+              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Extensiones\\ServicioIdentidadExtencion.cs",
+              "RelativeToolTip": "API\\Extensiones\\ServicioIdentidadExtencion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:34:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioAplicacionExtencion.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Extensiones\\ServicioAplicacionExtencion.cs",
+              "RelativeDocumentMoniker": "API\\Extensiones\\ServicioAplicacionExtencion.cs",
+              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Extensiones\\ServicioAplicacionExtencion.cs",
+              "RelativeToolTip": "API\\Extensiones\\ServicioAplicacionExtencion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:26:38.433Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,22 +58,9 @@
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T01:08:40.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "API\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T21:05:00.599Z",
               "EditorCaption": ""
             }
           ]
