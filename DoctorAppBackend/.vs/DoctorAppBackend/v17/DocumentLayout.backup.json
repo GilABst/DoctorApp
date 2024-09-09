@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\extensiones\\servicioaplicacionextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\extensiones\\servicioaplicacionextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\extensiones\\servicioidentidadextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\extensiones\\servicioidentidadextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\controllers\\errortestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\controllers\\errortestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\errores\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\errores\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|d:\\desarrollo\\doctorapp\\doctorapp\\doctorappbackend\\api\\errores\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D306ABC-DAA6-4AD0-8C7E-26ECD45D4589}|API\\API.csproj|solutionrelative:api\\errores\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +34,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServicioIdentidadExtencion.cs",
-              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Extensiones\\ServicioIdentidadExtencion.cs",
-              "RelativeDocumentMoniker": "API\\Extensiones\\ServicioIdentidadExtencion.cs",
-              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Extensiones\\ServicioIdentidadExtencion.cs",
-              "RelativeToolTip": "API\\Extensiones\\ServicioIdentidadExtencion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "API\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:34:38.037Z",
+              "WhenOpened": "2024-09-09T01:46:10.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServicioAplicacionExtencion.cs",
-              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Extensiones\\ServicioAplicacionExtencion.cs",
-              "RelativeDocumentMoniker": "API\\Extensiones\\ServicioAplicacionExtencion.cs",
-              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Extensiones\\ServicioAplicacionExtencion.cs",
-              "RelativeToolTip": "API\\Extensiones\\ServicioAplicacionExtencion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ErrorTestController.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Controllers\\ErrorTestController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ErrorTestController.cs",
+              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Controllers\\ErrorTestController.cs",
+              "RelativeToolTip": "API\\Controllers\\ErrorTestController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAC0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:26:38.433Z",
+              "WhenOpened": "2024-09-09T01:42:17.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiErrorResponse.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Errores\\ApiErrorResponse.cs",
+              "RelativeDocumentMoniker": "API\\Errores\\ApiErrorResponse.cs",
+              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Errores\\ApiErrorResponse.cs",
+              "RelativeToolTip": "API\\Errores\\ApiErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:36:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:25:12.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Errores\\ApiException.cs",
+              "RelativeDocumentMoniker": "API\\Errores\\ApiException.cs",
+              "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Errores\\ApiException.cs",
+              "RelativeToolTip": "API\\Errores\\ApiException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:23:21.877Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +109,7 @@
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "D:\\Desarrollo\\DoctorApp\\DoctorApp\\DoctorAppBackend\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T01:08:40.827Z",
               "EditorCaption": ""
